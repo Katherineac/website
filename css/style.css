@@ -563,3 +563,33 @@ footer #tsweitzer {
   text-decoration: underline;
 >>>>>>> cd47c857a497ce71ce186a6dbf71b1ca8c141532
 }
+
+/* llokken5 */
+
+body#llokken5 {
+  background-color: #eee;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+body#llokken5 h1 {border-bottom: 1px solid #000; }
+
+.container-llokken5 {
+  margin: 0 auto;
+  background-color: #fff;
+  border: solid #000;
+  border-width: 0px 1px 1px 1px;
+  border-radius: 0px 0px 25px 25px;
+  padding: 1em;
+  width: 80%;
+}
+  
+.container-llokken5 a:link { color: #333; }
+.container-llokken5 a:hover { color: #555; }
+.container-llokken5 a:visited { color: #999; }
+.container-llokken5 a:visited:hover { color: #555; }
+
+.container-llokken5 > footer, .container-llokken5 > header {
+  text-align: center;
+}
+
+/* end llokken5 */
