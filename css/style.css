@@ -49,6 +49,11 @@ body#bhogan article h2 {font-size: 1.25em }
   
 }
 
+/* Aaron Zwiefelhofer - azwiefelhofer11 */
+body#azwiefelhofer11 {
+    font-family: 'Lora', 'Times New Roman', serif;
+}
+
 
 #jstodola a {
   text-decoration: none;
