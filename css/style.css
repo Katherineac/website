@@ -169,6 +169,16 @@ body#bhogan article h2 {font-size: 1.25em }
   text-align: center;
 }
 
+/* Pheng Vang ------------------- */
+
+#pvang div{
+	border-style: solid;
+}
+
+#pvang h1 {
+	border-bottom: 1px solid;
+}
+
 /* Luke A Chase css for people/lchase1.html -------------------------------- */
 body#lchase1 {
   background-color: #000;
