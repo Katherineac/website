@@ -50,6 +50,7 @@ body#bhogan article h2 {font-size: 1.25em }
 }
 
 /* Aaron Zwiefelhofer - azwiefelhofer11 */
+
 body#azwiefelhofer11 {
     font-family: 'Lora', 'Times New Roman', serif;
 }
@@ -68,6 +69,19 @@ body#azwiefelhofer11 article h2 {
     font-size: 1.25em;
 }
 
+#azwiefelhofer11exp {
+    font-size: 2.15em;
+}
+
+#azwiefelhofer11expsection {
+    border: 1px solid #666;
+}
+
+#azwiefelhofer11container {
+    margin-left: 20px;
+}
+
+/* End Aaron Zwiefelhofer - azwiefelhofer11 */
 
 #jstodola a {
   text-decoration: none;
