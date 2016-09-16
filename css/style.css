@@ -54,6 +54,20 @@ body#azwiefelhofer11 {
     font-family: 'Lora', 'Times New Roman', serif;
 }
 
+body#azwiefelhofer11 .media a {
+    color: #333;
+    margin: 0.5em;
+    text-decoration: none;
+}
+
+body#azwiefelhofer11 h1 {
+    border-bottom: 1px solid #666;
+}
+
+body#azwiefelhofer11 article h2 {
+    font-size: 1.25em;
+}
+
 
 #jstodola a {
   text-decoration: none;
