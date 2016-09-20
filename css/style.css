@@ -598,3 +598,26 @@ body#llokken5 h1 {border-bottom: 1px solid #000; }
 }
 
 /* end llokken5 */
+
+/* Austin Prueher (aprueher6) for people/aprueher6.html */
+
+.container-aprueher6 {
+	margin: auto;
+	width: 80%;
+	
+}
+
+.container-aprueher6 > header {
+	border-bottom-style: dotted;
+	text-align: center;
+}
+
+.container-aprueher6 span {
+	font-weight: 600;
+}
+
+.container-aprueher6 ul {
+	padding-top: 0px;
+	margin-top: -10px;
+}
+/* End aprueher6 */
