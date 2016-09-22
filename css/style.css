@@ -49,6 +49,39 @@ body#bhogan article h2 {font-size: 1.25em }
   
 }
 
+/* Aaron Zwiefelhofer - azwiefelhofer11 */
+
+body#azwiefelhofer11 {
+    font-family: 'Lora', 'Times New Roman', serif;
+}
+
+body#azwiefelhofer11 .media a {
+    color: #333;
+    margin: 0.5em;
+    text-decoration: none;
+}
+
+body#azwiefelhofer11 h1 {
+    border-bottom: 1px solid #666;
+}
+
+body#azwiefelhofer11 article h2 {
+    font-size: 1.25em;
+}
+
+#azwiefelhofer11exp {
+    font-size: 2.15em;
+}
+
+#azwiefelhofer11expsection {
+    border: 1px solid #666;
+}
+
+#azwiefelhofer11container {
+    margin-left: 20px;
+}
+
+/* End Aaron Zwiefelhofer - azwiefelhofer11 */
 
 #jstodola a {
   text-decoration: none;
@@ -598,3 +631,26 @@ body#llokken5 h1 {border-bottom: 1px solid #000; }
 }
 
 /* end llokken5 */
+
+/* Austin Prueher (aprueher6) for people/aprueher6.html */
+
+.container-aprueher6 {
+	margin: auto;
+	width: 80%;
+	
+}
+
+.container-aprueher6 > header {
+	border-bottom-style: dotted;
+	text-align: center;
+}
+
+.container-aprueher6 span {
+	font-weight: 600;
+}
+
+.container-aprueher6 ul {
+	padding-top: 0px;
+	margin-top: 0px;
+}
+/* End aprueher6 */
