@@ -83,6 +83,22 @@ body#azwiefelhofer11 article h2 {
 
 /* End Aaron Zwiefelhofer - azwiefelhofer11 */
 
+/*Austyn Owens - aowens6*/
+
+body#aowens6 {
+    font-family: 'Lora', 'Times New Roman', serif;
+}
+
+body#aowens6 .media a {
+    color: #333;
+    margin: 0.5em;
+    text-decoration: none;
+}
+
+
+
+/* End Aaron Zwiefelhofer - azwiefelhofer11 */
+
 #jstodola a {
   text-decoration: none;
   color: rgba(0, 119, 255, 1);
