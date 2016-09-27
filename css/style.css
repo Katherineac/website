@@ -688,3 +688,21 @@ body#ckuehl7 a:link, a:active, a:visited, a:hover, a:focus {
 
 /* ckuehl7 end */
 
+/* kcater start */
+body#kcater {
+    width: 100%;
+    background-color: #d3d3d3;
+}
+
+body#kcater div#wrapper {
+    width: 90%;
+    background-color: #b3b3b3;
+    padding: 5px;
+    margin: 0 auto;
+}
+
+body#kcater a {
+    text-decoration: none;
+    color: #000;
+}
+/* kcater end */
